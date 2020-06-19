@@ -120,4 +120,3 @@ def game_hash
     }
     ]
   }
-}}
