@@ -1,3 +1,4 @@
+require 'pry'
 def game_hash
   hashketball = {
   :home => {
@@ -121,4 +122,5 @@ def game_hash
     ]
   }
 }
+binding.pry
 end
