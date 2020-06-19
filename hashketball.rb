@@ -117,6 +117,5 @@ def game_hash
       :steals => 22,
       :blocks => 15,
       :slam_dunks => 10
-    }}
-    ]
+    }]
   }}
