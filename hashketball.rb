@@ -118,4 +118,4 @@ def game_hash
       :blocks => 15,
       :slam_dunks => 10
     }]
-  }}
+  }
